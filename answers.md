@@ -30,3 +30,12 @@ Name: Sebastien Hucks
 
       answers.md
 
+6) On branch master
+
+   No commits yet
+
+   Changes to be committed:
+
+      new file:   README.md
+      new file:   answers.md
+
