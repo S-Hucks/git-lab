@@ -60,6 +60,10 @@ Name: Sebastien Hucks
 10) The changes were not reflected in the local copy.
 
 11) The changes could not go through because work was done on the online copy, causing the push
-    to be rejected. It tells to integrate the remote changes before pushing again..
+    to be rejected. It tells to integrate the remote changes before pushing again.
+
+12) The changes came through cleanly, there were no problems.
+
+13) .  ..  .git  .gitignore  README.md
 
 
